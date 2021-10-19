@@ -5,15 +5,15 @@
         "hostingPlanName": {
             "type": "string",
             "minLength": 1,
-            "defaultValue": "SonarQubeAppServicePlan"
+            "defaultValue": "CirdanSonarQubeAppServicePlan"
         },
         "siteLocation": {
             "type": "string",
-            "defaultValue": "UK South"
+            "defaultValue": "uksouth"
         },
         "siteName": {
             "type": "string",
-            "defaultValue": "SonarQubeAppService"
+            "defaultValue": "CirdanSonarQubeAppService"
         },
         "skuName": {
             "defaultValue": "B1",
